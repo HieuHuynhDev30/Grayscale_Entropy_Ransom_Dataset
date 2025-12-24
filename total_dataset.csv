@@ -1,5 +1,5 @@
 sample_id,image_path,entropy_path,entropy_mean,label,family
-cefea76dfdbb48cf,Bazzar_ransomware_dataset/exe/images/cefea76dfdbb48cf.png,Bazzar_ransomware_dataset/entropy/cefea76dfdbb48cf_entropy.npy,0.825359106063843,1,ALPHV
+cefea76dfdbb48cf,Bazzar_ransomware_dataset/exe/images/cefea76dfdbb48cf.png,Bazzar_ransomware_dataset/exe/entropy/cefea76dfdbb48cf_entropy.npy,0.825359106063843,1,ALPHV
 7e363b5f1ba37378,Bazzar_ransomware_dataset/exe/images/7e363b5f1ba37378.png,Bazzar_ransomware_dataset/exe/entropy/7e363b5f1ba37378_entropy.npy,0.805958330631256,1,ALPHV
 3d7cf20ca6476e14,Bazzar_ransomware_dataset/exe/images/3d7cf20ca6476e14.png,Bazzar_ransomware_dataset/exe/entropy/3d7cf20ca6476e14_entropy.npy,0.825359225273132,1,ALPHV
 101bd45ab673fd65,Bazzar_ransomware_dataset/exe/images/101bd45ab673fd65.png,Bazzar_ransomware_dataset/exe/entropy/101bd45ab673fd65_entropy.npy,0.750125288963318,1,Akira
